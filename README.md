@@ -1,66 +1,90 @@
-🧾 CTF3204: Fundamentals of Programming
-Coursework Portfolio – Login Form and Selections (Tasks 1–4) Module Code: CTF3204 Module Name: Fundamentals of Programming
+# CTF3204: Fundamentals of Programming  
+**Coursework Portfolio – Login Form and Selections (Tasks 1–4)**  
+**Module Code:** CTF3204 | **Module Name:** Fundamentals of Programming  
 
-🖥️ Project Overview
-This repository contains a Windows Forms application developed in C# as part of the coursework portfolio. The project demonstrates foundational programming concepts including:
+---
 
-Form design and layout
+## 🖥️ Project Overview
+This repository contains a **Windows Forms application** developed in **C#** as part of the coursework portfolio for CTF3204. The project demonstrates key programming concepts, including:  
 
-Input validation and error handling
+- Form design and layout using WinForms  
+- Input validation and error handling  
+- Event-driven programming logic  
+- Navigation between multiple user-controlled forms  
+- Clean and responsive UI design  
 
-Event-driven logic
+---
 
-Navigation between user-controlled forms
+## 📌 Objectives
 
-Clean and responsive UI design using the WinForms framework
+| Task | Description |
+|------|-------------|
+| **Login System** | Implement credential validation for secure access |
+| **Form Navigation** | Enable seamless transitions between multiple forms |
+| **Error Handling** | Display informative messages for invalid login attempts |
+| **UI Design** | Apply clean and user-friendly interface principles |
+| **Academic Presentation** | Organize code and documentation to meet academic standards |
 
-📌 Objectives
-✅ Implement a login system with credential validation
+---
 
-🔄 Enable navigation between multiple forms
+## 📁 File Breakdown
 
-❌ Display error messages for invalid login attempts
+| File Name | Description |
+|-----------|-------------|
+| `Form1.cs` | Handles login logic and input validation |
+| `Form2.cs` | Displays post-login content |
+| `Program.cs` | Application entry point |
+| `Form1.Designer.cs` | UI layout for Form1 |
+| `Form2.Designer.cs` | UI layout for Form2 |
+| `Form1.resx`, `Form2.resx` | Resource files for forms |
+| `WindowsFormsApp1.csproj` | Project configuration and metadata |
 
-🎨 Apply clean UI design principles
+---
 
-📚 Organise and present work to academic standards
+## ▶️ How to Run
 
-📁 File Breakdown
-File Name	Description
-Form1.cs	Handles login logic and input validation
-Form2.cs	Displays post-login content
-Program.cs	Application entry point
-Form1.Designer.cs	UI layout for Form1
-Form2.Designer.cs	UI layout for Form2
-Form1.resx, Form2.resx	Resource files for forms
-WindowsFormsApp1.csproj	Project configuration and metadata
-▶️ How to Run
-Open the solution in Visual Studio
+1. **Open the Solution**  
+   Open `WindowsFormsApp1.sln` in **Visual Studio**.  
 
-Build and run the project (WindowsFormsApp1.csproj)
+2. **Build and Run**  
+   Build and run the project (`WindowsFormsApp1.csproj`).  
 
-Enter user credentials to test login functionality
+3. **Test Login Functionality**  
+   Enter valid or invalid user credentials to test login logic.  
 
-🔧 Note: The compiled .exe file is located in /bin/Debug/. Ensure your system has the appropriate version of the .NET Framework installed.
+> **Note:** The compiled executable (`.exe`) is located in `/bin/Debug/`. Ensure your system has the correct version of the .NET Framework installed.  
 
-🧪 Testing Summary
-✅ Valid credentials successfully load the second form
+---
 
-❌ Invalid credentials trigger appropriate error messages
+## 🧪 Testing Summary
 
-🔄 Form transitions are smooth and responsive
+| Test Case | Result |
+|-----------|--------|
+| Valid Credentials | Successfully loads the second form |
+| Invalid Credentials | Triggers appropriate error messages |
+| Form Transitions | Smooth and responsive navigation |
+| Runtime Stability | Application remains stable throughout execution |
 
-🧱 Application remains stable throughout runtime
+---
 
-🧠 Reflection
-This project strengthened key programming skills in C#, including:
+## 🧠 Reflection
 
-Designing responsive user interfaces
+This project strengthened core **C# programming skills**, including:  
 
-Managing event-driven form transitions
+- Designing **responsive and user-friendly interfaces**  
+- Managing **event-driven form transitions**  
+- Writing **maintainable and readable code**  
+- Presenting academic work professionally on GitHub  
 
-Writing maintainable and readable code
+---
 
-Publishing academic work professionally on GitHub
+## ⚡ Technologies Used
 
-Challenges included mastering Visual Studio’s layout tools and ensuring proper version control. These were overcome through systematic testing and refining the GitHub workflow.
+- **Language:** C#  
+- **Framework:** .NET (Windows Forms)  
+- **IDE:** Visual Studio  
+
+---
+
+## 📂 Repository Structure
+
