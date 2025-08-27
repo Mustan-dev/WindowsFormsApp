@@ -90,4 +90,14 @@ This project strengthened core **C# programming skills**, including:
 ---
 
 ## 📂 Repository Structure
+WindowsFormsApp1/ 
+├── Form1.cs 
+├── Form2.cs 
+├── Program.cs 
+├── Form1.Designer.cs 
+├── Form2.Designer.cs 
+├── Form1.resx 
+├── Form2.resx 
+├── WindowsFormsApp1.csproj 
+└── README.md
 
