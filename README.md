@@ -4,6 +4,9 @@
 
 ---
 
+![Screenshot](image-1.png)
+
+
 ## 🖥️ Project Overview
 This repository contains a **Windows Forms application** developed in **C#** as part of the coursework portfolio for CTF3204. The project demonstrates key programming concepts, including:  
 
