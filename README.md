@@ -1,4 +1,8 @@
-# CTF3204: Fundamentals of Programming  
+# CTF3204: Fundamentals of Programming
+![C#](https://img.shields.io/badge/C%23-8.0-blue)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+![Status: Completed](https://img.shields.io/badge/Status-Completed-brightgreen)
+  
 **Coursework Portfolio – Login Form and Selections (Tasks 1–4)**  
 **Module Code:** CTF3204 | **Module Name:** Fundamentals of Programming  
 
